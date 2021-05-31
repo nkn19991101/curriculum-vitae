@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: #FFF9F6;
+}
+.title {
+    margin-top: -60px;
+    margin-bottom: 10px;
+}
+
+.text-description {
+    margin: 0;
+    letter-spacing: 10px;
+    margin-bottom: 18px;
+}
+.icon-group {
+    width: 164px;
+}
+.items-container {
+    align-self: flex-start;
+    margin-top: 86px;
+}
+.btn-navigation {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    height: 100vh;
+}

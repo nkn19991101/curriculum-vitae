@@ -1,0 +1,62 @@
+
+/* flex */
+.d-flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.items-center {
+    align-items: center;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+.flex-column {
+    flex-direction: column;
+}
+
+
+/* typography */
+.bold {
+    font-weight: bold;
+}
+.h-xl {
+    font-size: 60px;
+}
+
+.h-lg {
+    font-size: 50px;
+}
+
+.h-md {
+    font-size: 40px;
+}
+
+.h-sm {
+    font-size: 30px;
+}
+
+.h-xs {
+    font-size: 25px;
+}
+
+
+.p-lg {
+    font-size: 32px;
+}
+
+.p-md {
+    font-size: 24px;
+
+}
+.p-sm {
+    font-size: 16px;
+}
+
+
